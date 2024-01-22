@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "614206080340",
+    "project_id": "decorenvision-2ef04",
+    "storage_bucket": "decorenvision-2ef04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614206080340:android:fc2a5c40a62dabd740b4c1",
+        "android_client_info": {
+          "package_name": "com.de_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614206080340-6bc07r960h1p3bmbf2na6e8s8u9kr7fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFsmv1mf8LnOjhTH1wJMcDhzM1c9hlP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614206080340-6bc07r960h1p3bmbf2na6e8s8u9kr7fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614206080340:android:d8d22f3a94dff87640b4c1",
+        "android_client_info": {
+          "package_name": "com.example.decorenvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614206080340-6bc07r960h1p3bmbf2na6e8s8u9kr7fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFsmv1mf8LnOjhTH1wJMcDhzM1c9hlP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614206080340-6bc07r960h1p3bmbf2na6e8s8u9kr7fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
